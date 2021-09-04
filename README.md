@@ -5,4 +5,4 @@ Use Pandas to visualize changes in Covid-19 case of chosen region.
 ## Required dependencies
 Pandas, arcGIS, matplotlib
 ## Issues Encountered
-Recovered cases in dataset "Coronavirus COVID-19 (2019-nCoV)" are all 0
+Recovered cases in dataset "Coronavirus COVID-19 (2019-nCoV)" are all 0.
